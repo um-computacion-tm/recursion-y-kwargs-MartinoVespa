@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VIamCJ27)
+#README
+
+###AUTOR
+####VESPA MARTINO
+
+##FACTORIAL
+
+Este código define una función llamada 'factorial', la misma calcula el factorial de un número entero no negativo.
+
+##FIBONACCHI
+
+Este código define una función llamada 'fibonacci' que se encarga de calcular el número de Fibonacci correspondiente a un índice dado 'fibo'. Los números de Fibonacci son una secuencia matemática en la que cada número es la suma de los dos números anteriores.
+
+##KWARGS
+
+Este código define una función llamada 'buscar_datos' que busca datos en una base de datos que se representa como un diccionario. 
